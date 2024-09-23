@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Demo Sites",
+    "description": "",
+    "home_page_url": "https://the-demo-sites.dev",
+    "feed_url": "https://the-demo-sites.dev/feed.json",
+    "user_comment": "",
+    "icon": "https://the-demo-sites.dev/media/website/logo-orange.png",
+    "author": {
+        "name": "AI WORM"
+    },
+    "items": [
+    ]
+}

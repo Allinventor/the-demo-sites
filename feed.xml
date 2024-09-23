@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>The Demo Sites</title>
+    <link href="https://the-demo-sites.dev/feed.xml" rel="self" />
+    <link href="https://the-demo-sites.dev" />
+    <updated>1969-12-31T19:00:00-05:00</updated>
+    <author>
+        <name>AI WORM</name>
+    </author>
+    <id>https://the-demo-sites.dev</id>
+
+</feed>
